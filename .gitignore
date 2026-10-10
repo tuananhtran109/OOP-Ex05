@@ -489,3 +489,4 @@ $RECYCLE.BIN/
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+*.png
